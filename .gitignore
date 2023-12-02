@@ -1,0 +1,12 @@
+*
+!.gitignore
+
+!LICENSE
+!*.md
+
+# Makefile
+!Makefile
+
+# C
+!*.c
+!*.h
